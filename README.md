@@ -1,6 +1,4 @@
 # Milestone2
-ex 4, second milestone of first semester, second year
-
 In this project i created a serial server and a parallel server, which supports clients,
 by reciving problems such as a matrix, and returning a solution. 
 The specific problems in this program are finding a path from initial cell to a goal cell defined by the client (with it's cost).
